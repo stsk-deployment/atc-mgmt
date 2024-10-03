@@ -42,7 +42,7 @@
       "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/microsoft.operationalinsights/workspaces/law-atc-01"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
-      "value": "365"
+      "value": "30"
     },
     "parDataCollectionRuleVMInsightsResourceId": {
       "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.Insights/dataCollectionRules/ama-vmi-dcr"
@@ -63,7 +63,7 @@
       "value": "it@atc.eu"
     },
     "parDdosProtectionPlanId": {
-      "value": []
+      "value": ""
     },
     "parPrivateDnsResourceGroupId": {
       "value": "/subscriptions/4fc4e8f5-a2b1-4cb1-9d63-f31e56226d8d/resourceGroups/rg-atc-connectivity"
