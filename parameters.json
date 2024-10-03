@@ -12,8 +12,8 @@
   "LOGGING_RESOURCE_GROUP": "rg-atc-logging",
   "MANAGEMENT_SUBSCRIPTION_ID": "ad53be67-fcff-48e7-9c27-2b35e6ac1114",
   "NETWORK_TYPE": "hubNetworking",
-  "MANAGEMENT_GROUP_ID": "atc",
-  "PREFIX": "atc",
+  "MANAGEMENT_GROUP_ID": "mg-atc",
+  "PREFIX": "mg-atc",
   "RELEASE_VERSION": "v0.19.4",
   "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
   "SECONDARYLOCATION": ""
