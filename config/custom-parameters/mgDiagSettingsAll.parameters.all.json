@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "mg-atc"
+      "value": "atc"
     },
     "parTopLevelManagementGroupSuffix": {
       "value": ""
@@ -18,7 +18,7 @@
       "value": false
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/microsoft.operationalinsights/workspaces/law-atc-01"
+      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
     },
     "parDiagnosticSettingsName": {
       "value": "toLa"
