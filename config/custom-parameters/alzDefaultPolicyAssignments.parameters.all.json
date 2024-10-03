@@ -9,7 +9,7 @@
       "value": ""
     },
     "parDdosEnabled": {
-      "value": true
+      "value": false
     },
     "parTopLevelPolicyAssignmentSovereigntyGlobal": {
       "value": {
@@ -39,25 +39,25 @@
       "value": "northeurope"
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/microsoft.operationalinsights/workspaces/law-atc-01"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
       "value": "365"
     },
     "parDataCollectionRuleVMInsightsResourceId": {
-      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-vmi-dcr"
+      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.Insights/dataCollectionRules/ama-vmi-dcr"
     },
     "parDataCollectionRuleChangeTrackingResourceId": {
-      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-ct-dcr"
+      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.Insights/dataCollectionRules/ama-ct-dcr"
     },
     "parDataCollectionRuleMDFCSQLResourceId": {
       "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.Insights/dataCollectionRules/ama-mdfcsql-default-dcr"
     },
     "parUserAssignedManagedIdentityResourceId": {
-      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.ManagedIdentity/userAssignedIdentities/alz-umi-identity"
+      "value": "/subscriptions/ad53be67-fcff-48e7-9c27-2b35e6ac1114/resourcegroups/rg-atc-logging/providers/Microsoft.ManagedIdentity/userAssignedIdentities/umi-identity"
     },
     "parAutomationAccountName": {
-      "value": "alz-automation-account"
+      "value": "aa-atc-01"
     },
     "parMsDefenderForCloudEmailSecurityContact": {
       "value": "it@atc.eu"
