@@ -40,37 +40,37 @@
       "value": false
     },
     "parAzBastionName": {
-      "value": ""
+      "value": []
     },
     "parAzBastionSku": {
-      "value": ""
+      "value": []
     },
     "parAzBastionTunneling": {
       "value": false
     },
     "parAzBastionNsgName": {
-      "value": ""
+      "value": []
     },
     "parDdosEnabled": {
       "value": false
     },
     "parDdosPlanName": {
-      "value": ""
+      "value": []
     },
     "parAzFirewallEnabled": {
       "value": false
     },
     "parAzFirewallName": {
-      "value": ""
+      "value": []
     },
     "parAzFirewallPoliciesName": {
-      "value": ""
+      "value": []
     },
     "parAzFirewallTier": {
-      "value": ""
+      "value": []
     },
     "parAzFirewallIntelMode": {
-      "value": ""
+      "value": []
     },
     "parAzFirewallAvailabilityZones": {
       "value": []
