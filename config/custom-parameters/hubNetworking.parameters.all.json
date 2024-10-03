@@ -113,7 +113,7 @@
       "value": {
         "name": "vgw-atc-01",
         "gatewayType": "Vpn",
-        "sku": "Basic",
+        "sku": "VpnGw1",
         "vpnType": "RouteBased",
         "generation": "Generation1",
         "enableBgp": false,
