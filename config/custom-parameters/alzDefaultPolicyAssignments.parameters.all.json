@@ -63,7 +63,7 @@
       "value": "it@atc.eu"
     },
     "parDdosProtectionPlanId": {
-      "value": "/subscriptions/4fc4e8f5-a2b1-4cb1-9d63-f31e56226d8d/resourceGroups/rg-atc-connectivity/providers/Microsoft.Network/ddosProtectionPlans/alz-ddos-plan"
+      "value": []
     },
     "parPrivateDnsResourceGroupId": {
       "value": "/subscriptions/4fc4e8f5-a2b1-4cb1-9d63-f31e56226d8d/resourceGroups/rg-atc-connectivity"
