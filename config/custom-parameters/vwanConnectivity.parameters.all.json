@@ -65,7 +65,7 @@
       "value": true
     },
     "parDdosPlanName": {
-      "value": "alz-ddos-plan"
+      "value": "alz-ddos-plan-northeurope"
     },
     "parPrivateDnsZonesEnabled": {
       "value": true
