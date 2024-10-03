@@ -23,9 +23,11 @@
     "parDiagnosticSettingsName": {
       "value": "toLa"
     },
-    "parLandingZoneMgChildren": {
-      "value": []
-    },
+   "parLandingZoneMgChildren": {
+      "value": [
+        "avd"
+    ]
+  },
     "parPlatformMgChildren": {
       "value": []
     },
