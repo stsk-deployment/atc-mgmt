@@ -6,7 +6,7 @@
       "value": "northeurope"
     },
     "parCompanyPrefix": {
-      "value": "atc"
+      "value": ""
     },
     "parHubNetworkName": {
       "value": "vnet-hub-01"
@@ -40,37 +40,37 @@
       "value": false
     },
     "parAzBastionName": {
-      "value": []
+      "value": "alz-bastion"
     },
     "parAzBastionSku": {
-      "value": []
+      "value": "Standard"
     },
     "parAzBastionTunneling": {
       "value": false
     },
     "parAzBastionNsgName": {
-      "value": []
+      "value": "nsg-AzureBastionSubnet"
     },
     "parDdosEnabled": {
       "value": false
     },
     "parDdosPlanName": {
-      "value": []
+      "value": "alz-ddos-plan"
     },
     "parAzFirewallEnabled": {
       "value": false
     },
     "parAzFirewallName": {
-      "value": []
+      "value": "alz-azfw-northeurope"
     },
     "parAzFirewallPoliciesName": {
-      "value": []
+      "value": "alz-azfwpolicy-northeurope"
     },
     "parAzFirewallTier": {
-      "value": []
+      "value": "Standard"
     },
     "parAzFirewallIntelMode": {
-      "value": []
+      "value": "Alert"
     },
     "parAzFirewallAvailabilityZones": {
       "value": []
