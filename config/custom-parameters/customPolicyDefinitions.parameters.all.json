@@ -6,7 +6,7 @@
       "value": "atc"
     },
     "parTelemetryOptOut": {
-      "value": false
+      "value": true
     }
   }
 }
