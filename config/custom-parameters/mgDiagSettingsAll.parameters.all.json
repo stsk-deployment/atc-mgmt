@@ -23,12 +23,14 @@
     "parDiagnosticSettingsName": {
       "value": "toLa"
     },
-   "parLandingZoneMgChildren": {
-      "value": "avd"
-    },
+    "parLandingZoneMgChildren": {
+      "value": [
+        "avd"
+    ]
+  },
     "parPlatformMgChildren": {
       "value": []
-    },
+  }
     "parTelemetryOptOut": {
       "value": true
     }
