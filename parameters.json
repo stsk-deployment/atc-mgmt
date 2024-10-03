@@ -1,0 +1,20 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-atc-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "4fc4e8f5-a2b1-4cb1-9d63-f31e56226d8d",
+  "IDENTITY_SUBSCRIPTION_ID": "132f4756-1811-47fb-a5b8-07d25841fe22",
+  "LOCATION": "northeurope",
+  "LOGGING_RESOURCE_GROUP": "rg-atc-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "ad53be67-fcff-48e7-9c27-2b35e6ac1114",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "atc",
+  "PREFIX": "atc",
+  "RELEASE_VERSION": "v0.19.4",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "SECONDARYLOCATION": ""
+}
