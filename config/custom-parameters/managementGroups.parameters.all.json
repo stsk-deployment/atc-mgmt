@@ -15,7 +15,7 @@
       "value": ""
     },
     "parLandingZoneMgAlzDefaultsEnable": {
-      "value": true
+      "value": false
     },
     "parPlatformMgAlzDefaultsEnable": {
       "value": true
@@ -24,8 +24,9 @@
       "value": false
     },
     "parLandingZoneMgChildren": {
-      "value": {}
-    },
+      "value": [
+        "avd"
+    ]
     "parPlatformMgChildren": {
       "value": {}
     },
