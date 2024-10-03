@@ -24,9 +24,8 @@
       "value": false
     },
     "parLandingZoneMgChildren": {
-      "value": [
-        "avd"
-    ]
+      "value": "avd"
+    },
     "parPlatformMgChildren": {
       "value": {}
     },
