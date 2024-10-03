@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "mg-atc"
+      "value": "atc"
     },
     "parTopLevelManagementGroupSuffix": {
       "value": ""
     },
     "parTopLevelManagementGroupDisplayName": {
-      "value": "ATC-JR"
+      "value": "Azure Landing Zones"
     },
     "parTopLevelManagementGroupParentId": {
       "value": ""
